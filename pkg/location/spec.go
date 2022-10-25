@@ -1,5 +1,5 @@
 package location
 
-const StandardCdc = "cmd/standardcdc/main.go"
-const AdvancedCdc = "cmd/advancedcdc/main.go"
-const EventHandler = "cmd/eventhandler/main.go"
+const StandardCdc = "cmd/cdc/standard/main.go"
+const AdvancedCdc = "cmd/cdc/advanced/main.go"
+const EventHandler = "cmd/handler/event/main.go"
